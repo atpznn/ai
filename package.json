@@ -1,6 +1,7 @@
 {
   "type": "module",
   "dependencies": {
-    "google-play-scraper": "^10.0.1"
+    "google-play-scraper": "^10.0.1",
+    "mysql2": "^3.12.0"
   }
 }
